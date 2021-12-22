@@ -1,2 +1,2 @@
 # whadda-xl-basic-code
-Whadda XL soldering &amp; programming kit basic pre-programmed code.
+All three Whadda XL soldering &amp; programming kits are pre-programmed with a basic code that includes multiple different effects for the addressable LEDs. You can choose different effects by using the onboard push button.
